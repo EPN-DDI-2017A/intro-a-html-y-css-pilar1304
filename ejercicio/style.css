@@ -1,0 +1,141 @@
+body{
+    background-color: #545458;
+    margin-left: 120px;
+    margin-right: 200px;
+    margin-top: 12px;
+    font-family:Verdana, Arial, sans-serif;
+    font-size: 15px;
+    
+}
+        
+h1,h3{
+    color: white;
+}
+
+h2{
+    color: #ADADAD;
+}
+
+a{
+    color:orange;
+    text-decoration: underline;
+}
+
+.cabeza h1{
+    margin-bottom: 0px;
+    font-size: 21px;
+}
+
+.cabeza h2{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: #D8D8D8;
+}
+
+.menu{
+    background-color: #FF9107;
+    text-align: left;
+    padding-left: 2px;
+    -webkit-box-shadow:0px 0px 3px 3px #2B2B2D;
+
+}
+
+/*.tablaP tr{
+    color: white;
+    font-weight: bold;
+}*/
+
+.menu ul{
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    font-size: 13px;
+}
+
+.menu ul li{
+    list-style: none;
+    display: inline;
+    text-decoration: none;
+    padding: .8em;
+    padding-right: 7px;
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    margin: 2px;
+    
+    
+}
+
+footer{
+    text-align: center;
+}
+
+img {
+    width: 80%; 
+    height: 25%;
+    border-style:solid;
+    border-color: #D6D6DB;
+}
+
+.cuerpo {
+    display: inline-flex;
+    background-color: white;
+    text-align: justify;
+    -webkit-box-shadow:0px 3px 3px 3px #2B2B2D;
+    margin-left: 1px;
+    margin-right: 1px;
+    font-size: 12px;
+}
+
+.texto{
+    margin-left: 12px;
+    margin-right: 35px;
+    margin-top: 2px;
+}
+
+.texto h1{
+    font-size: 22px;
+    
+}
+
+.texto a{
+    font-weight: bold;
+    color: #FF9107;
+}
+
+.texto p{
+    font-size: 11px;
+}
+
+.opciones {
+    border-left: 2px solid #C8C8C9;
+    padding-left: 8px;
+    margin-top: 30px;
+    margin-bottom: 70px;
+    color: #FF9107;
+    font-weight: bold;
+    font-size: 11px;
+   
+}
+.opciones h3{
+    color: #6E6E6E;
+    font-weight: bold;
+     
+}
+
+.opciones ul {
+    list-style: none;
+    margin: 5px;
+}
+
+.opciones li {
+    width: 200; 
+    margin: 5px;
+
+}
+
+footer{
+    font-size: 12px;
+}
